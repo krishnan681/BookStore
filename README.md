@@ -6,3 +6,9 @@ With your own bookshop website, you can showcase your literary passions, connect
 .
 I hope you enjoyed this post. Now, with these examples, you can create your own amazing page.
 support me guys 
+
+#HTML
+#CSS
+#BOOTSTRAP
+#JAVASCRIPT
+#RESPONSIVE
